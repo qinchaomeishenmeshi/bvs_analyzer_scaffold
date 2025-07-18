@@ -1,0 +1,17 @@
+yt-dlp
+requests
+snaptik
+ffmpeg-python
+opencv-python
+moviepy
+openai-whisper
+speech_recognition
+spacy
+jieba
+transformers
+matplotlib
+streamlit
+gradio
+flask
+fastapi
+rich

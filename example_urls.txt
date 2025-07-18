@@ -1,0 +1,17 @@
+# BVS Analyzer 示例URL文件
+# 每行一个视频URL，以#开头的行为注释
+# 使用方法: python main.py -f example_urls.txt
+
+# YouTube 示例（请替换为实际的视频ID）
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# https://www.youtube.com/watch?v=9bZkp7q19f0
+
+# B站示例（请替换为实际的BV号）
+# https://www.bilibili.com/video/BV1GJ411x7h7
+# https://www.bilibili.com/video/BV1uT4y1P7CX
+
+# 抖音示例（请替换为实际的视频链接）
+# https://www.douyin.com/video/1234567890123456789
+
+# 请在下方添加您要分析的视频URL
+# 注意：请确保URL有效且可访问
